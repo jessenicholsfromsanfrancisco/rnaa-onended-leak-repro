@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "rnaa-onended-leak-repro",
+    "slug": "rnaa-onended-leak-repro",
+    "android": { "package": "com.example.rnaaleak" },
+    "ios": { "bundleIdentifier": "com.example.rnaaleak" }
+  }
+}
